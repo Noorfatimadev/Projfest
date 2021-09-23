@@ -1,0 +1,4 @@
+﻿  Task.cpp
+C:\Users\user\source\repos\Project93\Project93\Task.cpp(210): warning C4715: 'Task::Get_Resource': not all control paths return a value
+C:\Users\user\source\repos\Project93\Project93\Task.cpp(274): warning C4715: 'Task::Get_Team_Members': not all control paths return a value
+  Project93.vcxproj -> C:\Users\user\source\repos\Project93\Debug\Project93.exe
