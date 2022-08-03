@@ -1,0 +1,27 @@
+﻿  LoginPage.cpp
+  Memail.cpp
+  Mname.cpp
+  Mphone.cpp
+  MyForm.cpp
+  MyForm10.cpp
+  MyForm11.cpp
+  MyForm2.cpp
+  MyForm3.cpp
+  MyForm8.cpp
+  MyForm9.cpp
+  Project.cpp
+  Redit.cpp
+  Resources.cpp
+C:\Users\user\source\repos\Project88\Project88\Resources.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Task.cpp
+C:\Users\user\source\repos\Project88\Project88\Task.cpp(59,6): warning C4101: 'n': unreferenced local variable
+  TeamMembers.cpp
+  TeamObj.cpp
+  Generating Code...
+C:\Users\user\source\repos\Project88\Project88\Task.cpp(211): warning C4715: 'Task::Get_Resource': not all control paths return a value
+C:\Users\user\source\repos\Project88\Project88\Task.cpp(275): warning C4715: 'Task::Get_Team_Members': not all control paths return a value
+C:\Users\user\source\repos\Project88\Project88\Resources.cpp(37): warning C4715: 'resources::isvalidID': not all control paths return a value
+C:\Users\user\source\repos\Project88\Project88\Resources.cpp(60): warning C4715: 'resources::isvalidname': not all control paths return a value
+  Date.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project88.vcxproj -> C:\Users\user\source\repos\Project88\Debug\Project88.exe

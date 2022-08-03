@@ -1,0 +1,46 @@
+
+1
+Laptop
+1
+Laptop
+
+1
+Laptop
+1
+Laptop
+
+1
+laptop
+1
+laptop
+
+0
+laptop
+0
+laptop
+
+0
+laptop
+0
+laptop
+y 67
+h y
+r 6
+k 3
+r k
+r 7
+f 7
+e 4
+r 7
+r 
+e 5
+g s
+r 1
+n 1
+c 1
+r 7
+
+0
+laptop
+0
+laptop
